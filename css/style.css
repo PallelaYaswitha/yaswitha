@@ -7,7 +7,6 @@ font-family: 'Hind', sans-serif;
     height: 100vh;
     background: url("../images/background.jpg");
     background-size: cover;
-    position: relative;
 }
 
 .bannerText{
